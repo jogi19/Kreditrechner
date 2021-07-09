@@ -1,5 +1,5 @@
 /*
- * (C) 2004 Siemens VDO
+ * (C) by me
  * All Rights Reserved
  * FILE: 		DurationResponse.java
  * VERSION 0.1
