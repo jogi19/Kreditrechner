@@ -1,5 +1,5 @@
 /*
- * (C) 2004 Siemens VDO
+ * (C) by me
  * All Rights Reserved
  * FILE: 		Calculator.java
  * VERSION 0.1
@@ -133,7 +133,7 @@ public class Calculator
      */
     public double getYearlyRate(double duration, double interestRate, double startCapital)
     {
-       //TODO muss auf Restkapital ge‰ndert werden
+       //TODO muss auf Restkapital ge√§ndert werden
         /*
        double sc = startCapital;
        double ir = interestRate;
@@ -144,7 +144,7 @@ public class Calculator
        return yearly;
        */
        
-       //System.out.println("Muss noch auf restcapital ge‰ndert werden");
+       //System.out.println("Muss noch auf restcapital ge√§ndert werden");
        return 0;
     }
     
